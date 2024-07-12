@@ -48,19 +48,6 @@ Homework 4 consists of coding assignments and math problems covering various mac
    ```
 
 
-### Code Structure
-
-- **Logistic Regression with Newton’s Method**:
-  - Derivation and implementation of logistic regression using Newton's Method.
-  
-- **Wine Classification with Logistic Regression**:
-  - Implementation of logistic regression for wine classification, including batch gradient descent and stochastic gradient descent methods.
-  
-- **A Bayesian Interpretation of Lasso**:
-  - Derivation of MAP estimation and its equivalence to Lasso regularization.
-  
-- **ℓ1-regularization, ℓ2-regularization, and Sparsity**:
-  - Analysis and comparison of the sparsity-inducing properties of ℓ1 and ℓ2 regularization.
 
 ## Author
 
