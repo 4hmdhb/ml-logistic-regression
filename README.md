@@ -37,8 +37,8 @@ Homework 4 consists of coding assignments and math problems covering various mac
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/4hmdhb/ml-classifiers.git
-   cd ml-classifiers
+   git clone git@github.com:4hmdhb/ml-logistic-regression.git
+   cd ml-logistic-regression
    ```
 
 2. Ensure all dependencies are installed. You can use `pip` to install required packages:
